@@ -22,7 +22,7 @@ cpi = ["no-entrypoint"]
 anchor-lang = "=0.29.0"
 anchor-spl = "=0.29.0"
 
-solana-program = "=1.18.15"
+solana-program = "^1.18.15"
 
 # unpack TickArray
 bincode = "1"
